@@ -1,0 +1,22 @@
+
+h2{
+  text-align: center;
+  background-color: teal;
+  color: white;
+}
+body{
+  text-align: center;
+}
+.text{
+  color: red;
+}
+
+.text-info{
+  color: teal;
+  background-color: white;
+  font-weight: bold;
+}
+
+.text-success{
+  color: red;
+}
